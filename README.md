@@ -102,6 +102,7 @@ Last updated: April 2026
 | 48 | [ProductCool](https://www.productcool.com) | Product discovery platform for new tools and startups. | 20 |
 | 49 | [LaunchIgniter](https://launchigniter.com) | Launch platform for getting early feedback and first users. | 15 |
 | 50 | [SaaSFame](https://saasfame.com) | SaaS showcase directory for gaining visibility and early users. | 15 |
+| 51 | [SaaSCity](https://saascity.io) | Gamified SaaS directory where every listing becomes a building on an isometric city map. | 59 |
 
 ---
 
